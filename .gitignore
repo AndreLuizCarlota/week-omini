@@ -8,8 +8,8 @@
 */uploads
 
 #expo
-.expo-shared/*
-.expo/*
+*/.expo-shared/*
+*/.expo/*
 
 
 #yarn
