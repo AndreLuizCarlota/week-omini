@@ -9,6 +9,8 @@
 
 #expo
 */.expo-shared/*
+*/.expo/*
+
 
 #yarn
 yarn-error.log
