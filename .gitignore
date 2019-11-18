@@ -4,9 +4,11 @@
 #node
 */node_modules/
 
-
 #files
 */uploads
+
+#expo
+*/.expo-shared/*
 
 #yarn
 yarn-error.log
