@@ -1,0 +1,13 @@
+#vs
+.vscode
+
+#node
+*/node_modules/
+
+
+#files
+*/uploads
+
+#yarn
+yarn-error.log
+yarn.lock
